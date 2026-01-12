@@ -39,7 +39,7 @@ I'm a passionate **Full Stack Web Developer** from the **Philippines 🇵🇭**,
   <img src="https://github-readme-stats-rho-nine-69.vercel.app/api/top-langs/?username=shervs336&layout=compact&hide_border=true" height="160"/>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=shervs336)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-theta-one-41.vercel.app?user=shervs336&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
