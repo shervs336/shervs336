@@ -67,13 +67,6 @@ I'm a passionate **Full Stack Web Developer** from the **Philippines 🇵🇭**,
 
 ---
 
-## 📈 Recent GitHub Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
 ## 🌐 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/shervs336)
