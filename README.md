@@ -48,7 +48,7 @@ I'm a passionate **Full Stack Web Developer** from the **Philippines 🇵🇭**,
 ## 🏆 GitHub Trophies
 
 <p align="center">
-
+  <img src="[https://github-readme-stats-rho-nine-69.vercel.app/api?username=shervs336&show_icons=true&hide_border=true](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat)"/>
 </p>
 
 ---
@@ -87,7 +87,7 @@ I'm a passionate **Full Stack Web Developer** from the **Philippines 🇵🇭**,
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/shervs336)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/sherwinrheycondez?mp_source=share)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/shervs336)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4?style=flat&logo=about.me)](https://shervs336.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4?style=flat&logo=about.me)](https://sherwinrheycondez.com)
 
 ---
 
