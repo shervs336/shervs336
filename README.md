@@ -40,7 +40,7 @@ I'm a passionate **Full Stack Web Developer** from the **Philippines 🇵🇭**,
 </p>
 
 <p align="center">
-  [![GitHub Streak](https://github-readme-streak-stats-theta-one-41.vercel.app?user=shervs336&hide_border=true)](https://git.io/streak-stats)
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-theta-one-41.vercel.app?user=shervs336&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 
 ---
@@ -48,7 +48,7 @@ I'm a passionate **Full Stack Web Developer** from the **Philippines 🇵🇭**,
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-theta-one-41.vercel.app?user=shervs336&hide_border=true" alt="GitHub Streak" /></a>
+
 </p>
 
 ---
@@ -56,7 +56,7 @@ I'm a passionate **Full Stack Web Developer** from the **Philippines 🇵🇭**,
 ## 👀 Profile Views
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-theta-one-41.vercel.app?user=shervs336&hide_border=true" alt="GitHub Streak" /></a>
+  <img src="https://komarev.com/ghpvc/?username=shervs336&style=flat" />
 </p>
 
 ---
