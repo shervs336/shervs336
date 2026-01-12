@@ -40,9 +40,8 @@ I'm a passionate **Full Stack Web Developer** from the **Philippines 🇵🇭**,
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shervs336&hide_border=true" height="160"/>
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=shervs336)](https://git.io/streak-stats)
 </p>
-
 ---
 
 ## 🏆 GitHub Trophies
