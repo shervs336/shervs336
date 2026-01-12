@@ -45,14 +45,6 @@ I'm a passionate **Full Stack Web Developer** from the **Philippines 🇵🇭**,
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="[https://github-readme-stats-rho-nine-69.vercel.app/api?username=shervs336&show_icons=true&hide_border=true](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat)"/>
-</p>
-
----
-
 ## 👀 Profile Views
 
 <p align="center">
