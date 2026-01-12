@@ -48,7 +48,7 @@ I'm a passionate **Full Stack Web Developer** from the **Philippines 🇵🇭**,
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shervs336&margin-w=10&no-frame=true" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-theta-one-41.vercel.app?user=shervs336&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 
 ---
