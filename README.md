@@ -56,7 +56,7 @@ I'm a passionate **Full Stack Web Developer** from the **Philippines 🇵🇭**,
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shervs336&style=flat" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-theta-one-41.vercel.app?user=shervs336&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 
 ---
